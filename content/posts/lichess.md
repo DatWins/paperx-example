@@ -1,6 +1,5 @@
 ---
-title: lichess shortcodeA Note of Lorem Ipsum
-date: 2025-05-087T00:15:38+08:00
+title: lichess shortcode
 draft: false
 tags:
   - lichess
