@@ -1,7 +1,9 @@
 ---
 
 title: lichess shortcode
-draft: false
+date: "2025-05-08"
+description: "lichess study"
+draft: true
 tags:
   - lichess
 ---
