@@ -9,5 +9,5 @@ tags:
 This is the game of the century. 
 
 {{< lichess src="https://lichess.org/study/embed/T2uBqZJH/vGAj5Ztx"
-    width="120%" height="500px"
+    width="120%" height="600px"
     params="theme=green&bg=light&pieceSet=staunty" >}}
