@@ -1,21 +1,11 @@
-+++
+---
 title = "Classic FICS: subtle space"
-subtitle = "siggemannen - luckybbad, 2008"
-date = 2019-12-13T21:24:48+08:00
-
-lastmod = 2019-12-13T21:24:48+08:00
-description = ""
-
-slug = "classic-fics-subtle-space"
-categories = ["blog"]
-tags = ["game-analysis", "middlegames"]
-type = "post"
-series = ["Classic-FICS"]
-
-draft = false
-
-+++
-
+date: "2025-05-08"
+description: "lichess study"
+draft: false
+tags:
+  - lichess
+---
 This time, we're looking at a FICS blitz game from 2008. One of the strongest atomic players, siggemannen, takes the black pieces against luckybbad in a 3 minute, no increment game.
 
 FICS database number: 214032815
