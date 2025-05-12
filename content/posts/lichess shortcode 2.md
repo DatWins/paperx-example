@@ -1,12 +1,8 @@
 +++
 title = "Testing"
-date = 2018-07-22T18:47:03+02:00
-description = ""
-
-slug = ""
-categories = ["blog"]
+date = 2025-05-12
 tags = ["beginner"]
-type = "post"
+
 ++++++
 
 Hugo shortcode test (there should be something below this line:)
