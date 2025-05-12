@@ -8,10 +8,6 @@ tags:
 ---
 This time, we're looking at a FICS blitz game from 2008. One of the strongest atomic players, siggemannen, takes the black pieces against luckybbad in a 3 minute, no increment game.
 
-FICS database number: 214032815
-
-View [the complete game analysed on lichess](https://lichess.org/study/Ozmx9xie/P9n2HN9W).
-
 ## luckybbad (1934) - siggemannen (2306), 3+0, FICS 2008-11-02 ##
 
 {{< mainline >}}1. e3 e6 2. Qf3 f5 3. Qh5+ g6 4. Qh4{{< /mainline >}}
