@@ -1,5 +1,5 @@
 ---
-title = "Classic FICS: subtle space"
+title: "Classic FICS: subtle space"
 date: "2025-05-08"
 description: "lichess study"
 draft: false
