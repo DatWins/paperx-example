@@ -1,7 +1,9 @@
 +++
 title = "New to nuke: Basic endgames"
 date = 2025-5-12
-tags = ["endgames"]
+description: endgames
+tags: 
+ - endgames
 
 +++
 ## KQ v K ##
