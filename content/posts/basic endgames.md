@@ -1,7 +1,7 @@
 ---
 title: lichess shortcode 2
 date: "2025-05-12"
-description: "endgames
+description: "endgames"
 draft: false
 tags:
   - lichess
