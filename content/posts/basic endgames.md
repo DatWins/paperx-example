@@ -1,11 +1,13 @@
-+++
-title = "New to nuke: Basic endgames"
-date = 2025-5-12
-description: endgames
-tags: 
- - endgames
+---
+title: lichess shortcode 2
+date: "2025-05-12"
+description: "endgames
+draft: false
+tags:
+  - lichess
+---
 
-+++
+
 ## KQ v K ##
 A queen is the only piece that can checkmate alone. The "technique" is basically to ensure the kings don't get connected, else it's completely drawn.
 
