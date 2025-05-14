@@ -1,12 +1,12 @@
 ---
 weight: 2
 title: "The Center, Territory and Space"
-date: 2021-01-17T23:18:05-08:00
-draft: false
-categories: ["bookstudy"]
-tags: ["positional", "imbalance"]
 description: "This is about the chapter Acuisition of the center, territory and space."
-books: ["amateurs-mind"]
+date: 2025-05-14
+draft: false
+tags: 
+ - positional
+ - imbalance
 ---
 
 Amateurs often have no clue of how to use center/space advantage, instead keen on forcing continuations, and 
